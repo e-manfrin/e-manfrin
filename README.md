@@ -1,4 +1,4 @@
-# Olá eu sou Emily Keyt Manfrin,desenvolvedora Full Stack 
+# Emily Keyt Manfrin,desenvolvedora Full Stack 
 
 
 - ADS,Tecnologia da informação FIAP 🎓
