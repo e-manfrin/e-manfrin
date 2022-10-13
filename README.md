@@ -1,9 +1,9 @@
 # Olá eu sou Emily Keyt Manfrin,desenvolvedora Full Stack 
 
 
-- 🎓 ADS,Tecnologia da informação FIAP
-- ⚙️ Front-End - React & Typescript
-- ⚙️ Back-End - C# & Entity Framework
+- ADS,Tecnologia da informação FIAP 🎓
+- Front-End - React & Typescript ⚙️ 
+- Back-End - C# & Entity Framework ⚙️ 
 
 <div align="center">
 <div>
